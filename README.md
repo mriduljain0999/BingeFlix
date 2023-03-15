@@ -1,6 +1,6 @@
 # Movies App (BingeFlix)
 
-This is my first React Project , therefore the features or ui can be little rusty . This is a React-based Movies App that allows users to find movies, latest movies, movies by genre, search movies by name, get movie details, and see the cast of the movie. The app is optimized for desktop but is also viewable on mobile devices.
+This is a React-based Movies App that allows users to find movies, latest movies, movies by genre, search movies by name, get movie details, and see the cast of the movie. The app is optimized for desktop but is also viewable on mobile devices.
 
 
 ## Features
