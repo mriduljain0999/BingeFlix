@@ -30,5 +30,9 @@ This app was built using the following technologies:
 ## Deployment
 This Movies App is deployed on Vercel. Vercel is a cloud platform that enables developers to deploy web projects and websites. The deployment process was straightforward, and the app is now live and accessible at https://binge-flix-two.vercel.app/
 
+## 🔗 Contributer
+
+[Mridul Jain](https://github.com/mriduljain0999)
+
 ## Conclusion
 This Movies App is a great way to find and discover new movies. With its easy-to-use interface, users can quickly search for movies, browse by genre, and view details about their favorite films. So go ahead and give it a try!
