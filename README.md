@@ -1,6 +1,6 @@
 # Movies App (BingeFlix)
 
-This is a React-based Movies App that allows users to find movies, latest movies, movies by genre, search movies by name, get movie details, and see the cast of the movie. The app is optimized for desktop but is also viewable on mobile devices.
+This is a Movies App that allows users to find movies, latest movies, movies by genre, search movies by name, get movie details, and see the cast of the movie. The app is optimized for desktop but is also viewable on mobile devices.
 
 
 ## Features
@@ -23,9 +23,9 @@ This is a React-based Movies App that allows users to find movies, latest movies
 
 This app was built using the following technologies:
 
-1) React
-2) React Router
-3) TMDB Database
+1) HTML
+2) CSS
+3) JavaScript
 
 ## Deployment
 This Movies App is deployed on Vercel. Vercel is a cloud platform that enables developers to deploy web projects and websites. The deployment process was straightforward, and the app is now live and accessible at https://binge-flix-two.vercel.app/
